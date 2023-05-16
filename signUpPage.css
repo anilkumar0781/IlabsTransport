@@ -1,0 +1,167 @@
+body
+{
+    height: 100%;
+    width: 100%;
+    background-image:url(./sign\ photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+ #main
+{
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 525px;
+    width:430px;
+    position: absolute;
+    background-color: white;
+    border-color:whitesmoke;
+    box-shadow: 5px 5px 5px 8px rgb(193, 192, 192);
+}
+.name
+{
+    margin-top: 0px;
+    margin-left: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+}
+
+#fname
+{
+    margin-left: 12px;
+    height: 30px;
+    width: 190px;
+    font-size: 15px;
+
+   
+}
+#sname
+{
+    margin-left: 0px;
+    height: 30px;
+    width: 190px;
+    font-size: 15px;
+}
+#email
+{
+    margin-left: 12px;
+    margin-top: 5px;
+    height: 30px;
+    width: 390.5px;
+    font-size: 15px;
+}
+#password
+{
+    margin-top: 5px;
+    margin-left: 12px;
+    height: 30px;
+    width: 390.5px;
+    font-size: 15px;
+}
+#dob
+{
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#date
+{
+    margin-top: -100px;
+    height: 30px;
+    width: 105px;
+    font-size: 15px;
+}
+#month
+{
+    height: 30px;
+    width: 157px;
+    font-size: 15px;
+}
+#year
+{
+    height: 30px;
+    width: 105px;
+    font-size: 15px;
+}
+#g
+{
+    margin-left: 12px;
+}
+#female
+{
+    height: 30px;
+    width: 122px;
+    font-size: 15px;
+    cursor:default; 
+}
+#male
+{
+    height: 30px;
+    width: 122px;
+    font-size: 15px;
+    cursor:default;
+}
+#custom
+{
+    height: 30px;
+    width: 122px;
+    font-size: 15px;
+    cursor:default;
+}
+#gf
+{
+    margin-top: 10px;
+    margin-left: -19px;
+}
+#gm
+{
+    margin-top: 10px;
+    margin-left: -19px;
+}
+#gc
+{
+    margin-top: 10px;
+    margin-left: -19px;
+}
+#name1
+{
+    margin-left: 12px;
+    font-size: 13px;
+}
+#name2
+{
+    margin-left: 12px;
+    font-size: 12.5px;
+}
+button
+{
+    margin-left: 110px;
+    border-radius: 10px ;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(238, 237, 237);
+    font-weight: bolder;
+    border-color: rgb(238, 240, 236);
+    text-decoration: none;
+    background-color: rgb(245, 245, 240);
+    height: 35px;
+    width: 200px;
+    cursor: pointer;
+}
+hr
+{
+    margin-top: 10px;
+}
+.head
+{
+    margin-top: 15px;
+}
+.multi
+{
+    margin-top: -55px;
+    margin-left: 400px;
+    font-weight: bold;
+    color: rgb(9, 9, 9);
+    text-decoration:underline;
+    text-decoration-color: white;
+   
+}

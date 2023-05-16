@@ -1,0 +1,102 @@
+.container1
+{
+    border-radius: 10px;
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    position: absolute;
+    top: 130px;
+    right: 450px;
+    box-shadow: 5px 5px 5px rgb(226, 225,225);
+    text-align: center;
+    margin-top: 0px;
+}
+body
+{
+  background-image: url(./login\ photo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.lf
+{
+    margin-top: 140px;
+}
+.maincontainer
+{
+    background-color: rgb(218, 214, 214);
+
+}
+.forminput
+{
+    padding: 20px;
+}
+button
+{
+    color: white;
+    background-color: rgb(231, 238, 237);
+    font-size: 20px;
+    padding: 12px;
+    width: 100%;
+    border-radius: 10px;
+    font-family: sans-serif;
+    
+
+}
+input
+{
+   padding: 12px;
+   width: 95%;
+   border-radius: 10px;
+   height: 25px;
+   font-size: 18px;
+
+}
+.create
+{
+    margin-top: 15px;
+    margin-right: 70px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: green;
+}
+.create a{
+    text-decoration: none;
+    background-color: rgb(249, 250, 251);
+    color: rgb(8, 8, 8);
+}
+.create button
+{
+    background-color: rgb(249, 250, 251);
+}
+p a
+{
+    background-color: white;
+    color: rgb(41, 41, 41);
+    font-size: 16px;
+
+}
+a
+{
+    color: rgb(10, 10, 10);
+    background-color: rgb(231, 238, 237);
+}
+h1
+{
+    font-size: 50px;
+    color: rgb(255, 234, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 160px;
+    margin-left: 70px;
+   
+}
+p
+{
+ background-color:whitesmoke;
+ color: black;
+
+}
+h2
+{
+    margin-left: 70px;
+    font-weight: lighter;
+}
